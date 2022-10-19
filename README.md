@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAVI TIWARY</h1>
 <h3 align="center">A passionate COMPUTER SCIENCE ENTHUSIAST</h3>
 
-<img align=“right” alt=“coding” width=“300” src=“![image](https://user-images.githubusercontent.com/110687796/196626785-177dedc0-d64d-4a4c-bccc-b093958061ac.png)"
+ ![image](https://user-images.githubusercontent.com/110687796/196626785-177dedc0-d64d-4a4c-bccc-b093958061ac.png)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-tiwary03&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-tiwary03" /> </p>
 
